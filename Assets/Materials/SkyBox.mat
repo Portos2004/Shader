@@ -51,17 +51,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _DayNightSlider: 1
     - _HorizonBlend: 30
     - _NadirBlend: 0.78
     - _QueueControl: 0
     - _QueueOffset: 0
     - _StarHeight: 100
     - _StarIntensity: 50
-    - _StarPower: 37.1
-    - _ZenithBlend: 1
+    - _StarPower: 33
+    - _ZenithBlend: 0.01
     m_Colors:
     - _GroundColor: {r: 0.19215687, g: 0.08235294, b: 0.09411765, a: 0}
     - _HorizonColor: {r: 0.3882353, g: 0.3882353, b: 0.3882353, a: 0}
     - _NightSkyColor: {r: 0.07058824, g: 0.07450981, b: 0.105882354, a: 0}
-    - _SkyColor: {r: 0.3882353, g: 0.70980394, b: 0.83137256, a: 0}
+    - _SkyColor: {r: 0.15619439, g: 0.41252753, b: 0.509434, a: 0}
   m_BuildTextureStacks: []
