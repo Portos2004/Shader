@@ -45,11 +45,11 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Alpha: {r: 0, g: 0, b: 0, a: 0}
+    - _Alpha: {r: 1, g: 1, b: 1, a: 0}
     - _CloudDistortion: {r: 0.02, g: 0.03, b: 0, a: 0}
     - _CloudSpeed: {r: 0.01, g: 0.02, b: 0, a: 0}
     - _Color1: {r: 0.7137255, g: 0.9176471, b: 0.9019608, a: 0}
-    - _Color2: {r: 0.6132076, g: 0.6132076, b: 0.6132076, a: 0}
+    - _Color2: {r: 0.6117647, g: 0.6117647, b: 0.6117647, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &201600166883888102
 MonoBehaviour:
