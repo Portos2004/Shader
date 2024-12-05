@@ -51,7 +51,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DayNightSlider: 1
+    - _DayNightSlider: 0
+    - _DayNightSpeed: 1
     - _HorizonBlend: 30
     - _NadirBlend: 0.78
     - _QueueControl: 0
